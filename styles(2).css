@@ -1,0 +1,60 @@
+* {
+    margin:0;
+    padding:0;
+}
+ body {
+    font-family:Arial ,sans-serif;
+    margin:0;
+    padding:0;
+}
+header {
+    background-color:white;
+    color:black;
+    padding:20px;
+}
+nav ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+}
+nav ul li {
+    display:inline;
+    margin-right:10px;
+}
+nav ul li a {
+    color:red;
+    text-decoration:none;
+}
+.hero {
+    background-image:"/simple Page.html (hero-image.jpg)";
+    background-color:yellow;
+    text-align:center;
+    padding :100px;
+    color:red;
+}
+.cta-button {
+    display:inline-block ;
+    padding :10px 20px;
+    background-color:white;
+    color:black;
+    text-decoration:none;
+    margin-top:20px;
+}
+.features {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:50px;
+}
+.feature {
+    text-align:center ;
+    margin:0 20px;
+}
+footer {
+    background-color:red;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+
